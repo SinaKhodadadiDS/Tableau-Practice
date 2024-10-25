@@ -46,4 +46,5 @@ This analysis aims to provide Eniac with a clear understanding of Magist’s cap
 
 **Note**: This project is for data analysis practice and learning purposes.
 
-[View Eniac Project on Tableau Public]([https://public.tableau.com/views/EniacProject_17296988775110/EniacStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/EniacProject_17296988775110/EniacStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Eniac Project on Tableau Public](https://public.tableau.com/views/EniacProject_17296988775110/EniacStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
